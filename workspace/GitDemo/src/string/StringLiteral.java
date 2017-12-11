@@ -13,6 +13,7 @@ public class StringLiteral {
 		//  and its reference will be pointed to String pool.
 		String s3 = new String("TestLeaf");
 		String s4 = new String("TestLeaf");
+		System.out.println("test");
 
 
 		// compare the object 
