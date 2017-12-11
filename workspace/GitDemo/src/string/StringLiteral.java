@@ -14,6 +14,7 @@ public class StringLiteral {
 		String s3 = new String("TestLeaf");
 		String s4 = new String("TestLeaf");
 		System.out.println("test");
+		System.out.println("test1");
 
 
 		// compare the object 
